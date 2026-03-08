@@ -4,6 +4,8 @@
 the script will automatically
 backup $src to $dest and
 auto rotation
+
+works with crontab
 help
 
 src="/home/ubuntu/scripts"
